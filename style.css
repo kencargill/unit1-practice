@@ -1,0 +1,47 @@
+h1 {
+    color: crimson;
+    font-family: sans-serif;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+h2 {
+    color: crimson;
+    font-family: sans-serif;
+    border-bottom: 4px dotted crimson;
+}
+h3 {
+    color: crimson;
+    font-family: sans-serif;
+}
+.bio {
+    font-style: italic;
+}
+header {
+    background-color: #eee;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-bottom: 1px solid silver;
+}
+main {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+footer {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-top: 1px solid silver;
+}
+footer h3 {
+    margin-top: 0px;
+}
+body {
+    margin: 0;
+}
